@@ -1,0 +1,13 @@
+Martin Fowler pohtii artikkelissan onko suunnittelu kuollut. Hän esittelee kaksi eri tyyliä, kuinka useimmiten suunnittelua on tehty, Planned ja Evolutionary Design. Planned on vastakohta Evolutionarylle, jota hän kusuukin katastrofiksi, kasa ad-hoc päätöksiä vaikeuttaen koodin muokkaamista. Kun taas Planned on enemmänkin perinteistä insinöörisuunnittelua. Planned on ollut mukana 70 luvulta asti. ja siinäkin on omat ongelmansa, esim et voi kaikkia ongelmia tietää mitä tulee vastaan ohjelmoidessasi. Suunnittelijoiden ja koodaajien välillä on jännitteitä.  
+
+Seuraavaksi esitellään XP:tä, joka on evolutionaarisen suunnittelun puolestapuhuja (advocates) Change curven kasvaessa (projektin edestessä) muutoskulut kasvavat exponentiaalisesti. 
+
+Hän korostaa myös refaktoroinnin, testaamisen ja CI:n merkitystä. Nämä tekevät evolutiivisen suunnittelun mahdolliseksi.
+
+Ja yksinkertaisuuden merkitystä (YAGNI)
+Yksinkertainen systeemi suorittaa kaikki testit, ei sisällä dublikaattia, paljastaa tarkoituksensa, fewest number of classes or methods. 
+
+Myös arkkitehtuuriksi kasvamista ja siihen haluamista käsitellään.
+
+Lisäksi UML:n ja XP:n suhdetta käsitellään, XP totee diagrammeista että käytä jos se on käytännöllistä, ja tämä jakaa ihmisiä, on niitä jotka tykkää kaavioista ja niistä jotka ei. Täytyisi hyväksyä että jotkut käyttää jotkut ei. Kaaviot kannattaa pitää lyhyinä, ei kaikkia detaljia, ja käsittele kuin luonnosta.
+Lopuksi todetaan että suunnittelu ei ole kuollut, mutta suunnittelun luonnetta tulee muuttaa. Artikkeli oli julkaistu heinäkuussa 2000, joka jäikin mieleeni koska näitä asioita käsiteltiin kuin uusina. 
